@@ -1,0 +1,5 @@
+C:\Users\dac\Desktop\dotNetAkash\DALLib\obj\Debug\net7.0\DALLib.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\dotNetAkash\DALLib\obj\Debug\net7.0\DALLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\dotNetAkash\DALLib\obj\Debug\net7.0\DALLib.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\dotNetAkash\DALLib\obj\Debug\net7.0\DALLib.AssemblyInfo.cs
+C:\Users\dac\Desktop\dotNetAkash\DALLib\obj\Debug\net7.0\DALLib.csproj.CoreCompileInputs.cache

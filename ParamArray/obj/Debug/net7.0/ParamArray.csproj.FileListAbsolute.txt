@@ -1,0 +1,15 @@
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\bin\Debug\net7.0\ParamArray.exe
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\bin\Debug\net7.0\ParamArray.deps.json
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\bin\Debug\net7.0\ParamArray.runtimeconfig.json
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\bin\Debug\net7.0\ParamArray.dll
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\bin\Debug\net7.0\ParamArray.pdb
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ParamArray.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ParamArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ParamArray.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ParamArray.AssemblyInfo.cs
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ParamArray.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ParamArray.dll
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\refint\ParamArray.dll
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ParamArray.pdb
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ParamArray.genruntimeconfig.cache
+C:\Users\dac\Desktop\dotNetAkash\ParamArray\obj\Debug\net7.0\ref\ParamArray.dll

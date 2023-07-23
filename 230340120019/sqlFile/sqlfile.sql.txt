@@ -1,0 +1,34 @@
+Table:
+
+CREATE TABLE [dbo].[Employees] (
+    [Id]      INT          NOT NULL,
+    [Name]    VARCHAR (50) NOT NULL,
+    [City]    VARCHAR (50) NOT NULL,
+    [Address] VARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+
+
+
+
+
+Stored procedure:
+
+CREATE PROCEDURE [dbo].InsertEmployee
+	@Id int,
+	@Name varchar(50),
+	@City varchar(50),
+	@Address varchar(50)
+AS
+	Insert into [dbo].Employees values(@Id, @Name, @City, @Address) 
+RETURN 0
+
+
+CREATE PROCEDURE [dbo].UpdateEmp
+	@Id int,
+	@Name varchar(50),
+	@City varchar(50),
+	@Address varchar(50)
+AS
+	update [dbo].[Employees] set Name=@Name,City=@City,Address=@Address where Id=@Id
+RETURN 0

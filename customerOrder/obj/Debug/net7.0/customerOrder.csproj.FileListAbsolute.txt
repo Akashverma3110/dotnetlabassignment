@@ -1,0 +1,15 @@
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\bin\Debug\net7.0\customerOrder.exe
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\bin\Debug\net7.0\customerOrder.deps.json
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\bin\Debug\net7.0\customerOrder.runtimeconfig.json
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\bin\Debug\net7.0\customerOrder.dll
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\bin\Debug\net7.0\customerOrder.pdb
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\customerOrder.csproj.AssemblyReference.cache
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\customerOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\customerOrder.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\customerOrder.AssemblyInfo.cs
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\customerOrder.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\customerOrder.dll
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\refint\customerOrder.dll
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\customerOrder.pdb
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\customerOrder.genruntimeconfig.cache
+C:\Users\dac\Desktop\dotNetAkash\customerOrder\obj\Debug\net7.0\ref\customerOrder.dll
